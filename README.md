@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SorinFlorian
-- 👀 I’m interested in find a job as front end developer
+- 👀 I’m interested in find a job as Web Developer
 - 🌱 I’m currently learning HTML, CSS, JavaScript, python, mssql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
