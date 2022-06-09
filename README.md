@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SorinFlorian
 - 👀 I’m interested in find a job as Web Developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, python, mssql
+- 💪 I'm mastering HTML, CSS, JavaScript, Bootstrap
+- 🌱 I’m currently learning NodeJS, MongoDB, ReactJS, Python, Mssql
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 You can write me at stefanescu_sorin_florian@yahoo.com
 <!---
